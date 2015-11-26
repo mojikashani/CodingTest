@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Westpac</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="summary">Summary: %1$s</string>
+    <string name="temperature">Temperature: %1$s \'F</string>
+    <string name="latitude_longitude">Location: %1$s, %2$s</string>
+    <string name="finding_location">Finding out your location...</string>
+    <string name="connecting_to_server">Connecting to server...</string>
+</resources>
